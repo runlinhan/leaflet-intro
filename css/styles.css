@@ -1,0 +1,16 @@
+#mapContainer {
+  		position: absolute;
+top:200px;
+right:0; 
+bottom:200px;
+left:0;
+margin:auto;
+width: 1000px;
+height: 500px;
+
+  	}
+
+.leaflet-popup-content 
+{
+ font-size: 25px;
+} 
